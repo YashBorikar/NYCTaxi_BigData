@@ -1,2 +1,7 @@
-# NYCTaxi_BigData
-Big data analysis using Spark and Neo4j for New York Taxi Fleet Restructuring
+# Big Data Analysis using Spark Framework for NYC Taxi Fleet Restructuring
+
+This project is aimed at supporting a NYC-based taxi company in restructuring its fleet allocation strategy outside Manhattan borough, considering recent changes in passenger travel patterns provoked by Covid. A Big Data Analysis was conducted using Spark Framework on a dataset of 132M NYC taxi trip records to identify the most profitable regions to allocate the company's taxis. The analysis revealed that restructuring the fleet allocation outside Manhattan borough would be beneficial, where there is less competition. The project successfully delivered actionable insights to the taxi company's management, which enabled them to make informed decisions regarding their fleet allocation strategy.
+
+# Graph Analysis using Neo4j to Measure Centrality Scores
+
+To further support the NYC taxi company's fleet allocation strategy, this project also conducted graph analysis using Neo4j to measure the hub-like features of each zone within community clusters. The analysis aimed to identify the top 3 zones with the highest centrality score in each cluster, which could be used to optimize resource allocation. The analysis successfully identified the top 3 zones with the highest centrality score in each community cluster, which provided valuable insights into the most central zones within each cluster. These insights helped the taxi company prioritize resource allocation in those zones, enabling them to optimize their fleet allocation strategy.
